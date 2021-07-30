@@ -1,0 +1,2 @@
+rootProject.name = "Balloon MaskRCNN"
+include ':app'

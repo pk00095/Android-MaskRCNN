@@ -1,0 +1,17 @@
+BalloonMaskRCNN/*.iml
+BalloonMaskRCNN/.gradle
+BalloonMaskRCNN/local.properties
+BalloonMaskRCNN/.idea/caches
+BalloonMaskRCNN/.idea/libraries
+BalloonMaskRCNN/.idea/modules.xml
+BalloonMaskRCNN/.idea/workspace.xml
+BalloonMaskRCNN/.idea/navEditor.xml
+BalloonMaskRCNN/.idea/assetWizardSettings.xml
+BalloonMaskRCNN/.DS_Store
+BalloonMaskRCNN/build
+BalloonMaskRCNN/captures
+BalloonMaskRCNN/.externalNativeBuild
+BalloonMaskRCNN/.cxx
+BalloonMaskRCNN/local.properties
+*.pt
+*.ptl
